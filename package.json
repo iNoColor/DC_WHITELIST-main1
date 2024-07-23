@@ -1,0 +1,14 @@
+{
+  "name": "dc_whitelist",
+  "description": "Discord Whitelist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whitelist"
+  ],
+  "author": "HELLO JJ#2631",
+  "license": "MIT"
+}
